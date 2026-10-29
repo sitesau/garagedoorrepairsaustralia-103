@@ -1,0 +1,22 @@
+{
+  "wheel_id": 503,
+  "structure": "umbrella",
+  "slug": "garagedoorrepairsaustralia-103",
+  "project": "garage-door-repairs-brisbane-how-to-choose-e42f070489a9a03e676a",
+  "parent_t1_ref": "garagedoorrepairsaustralia-151",
+  "node_role": "feeder",
+  "money_target": "garagedoorrepairsaustralia.com.au",
+  "primary_kw": "garage door repairs brisbane how to choose",
+  "intended_url": "https://sitesau.github.io/garagedoorrepairsaustralia-103/",
+  "tier": "T2",
+  "writeback_nonce": "f94497a7fa7a82d0",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-brisbane-cost-guide-08efb3d77f442c582632/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
